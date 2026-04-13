@@ -1,7 +1,4 @@
 """
-Name: Muhammad Shahmeer Khan
-Title: Command Finder
-Date Due: 5 Dec, 2025
 Description: A program that lefts user select a file, write, read, append or search or delete names from 
 """
 
